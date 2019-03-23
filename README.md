@@ -1,10 +1,6 @@
 <meta name="google-site-verification" content="Z26zWMGxpVTs9MgrQ8c9jNcYDskKP0a2sIUi8RxN628" />
-
-This is profile of Manish Kumar Gupta. Below is glimpse of 16 years of experience; which
-is immensely in digital transformation projects including Integration, SOA, API, Microservices, ETL and Security
-related technologies and implementations, earned with top-tier enterprises worldwide. During these years, I have
-been performing on multiple roles and responsibilities. For my employer, I play role of Senior Technology
-Architect in Netherlands.
+Thanks for interest in profile of Manish Kumar Gupta (MKsProfile). 
+Below is glimpse of 16 years of experience; which is immensely in digital transformation projects including Integration, SOA, API, Microservices, ETL and Security related technologies and implementations, earned with top-tier enterprises worldwide. During these years, I have been performing on multiple roles and responsibilities. For my employer, I play role of Senior Technology Architect in Netherlands.
 
 In my present capacity, I am providing my expertise to a client of my present employer, implementing Digital
 B2B Platforms for Care and Sales stream in B2B segment for its subsidiaries. My main responsibility is to drive
