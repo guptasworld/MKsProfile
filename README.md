@@ -13,16 +13,16 @@ Customer Identity Access Management for Care and e-commerce portals.
 
 >End to end Architecture for Connectivity and API, Microservices.
 
-Salesforce CRM Integration
+>Salesforce CRM Integration
 
-Security, Privacy and GDPR assessment and implementation.
+>Security, Privacy and GDPR assessment and implementation.
 
-Architecture and consultation on CIAM for Care and e-commerce portals - OAuth, OpenID Connect, SSO, RBAC, LDAP and Encryption
+>Architecture and consultation on CIAM for Care and e-commerce portals - OAuth, OpenID Connect, SSO, RBAC, LDAP and Encryption
 solution including Key Management.
 
-Greenfield IT Infrastructure Sizing, Capacity planning and Environment Management preparations
+>Greenfield IT Infrastructure Sizing, Capacity planning and Environment Management preparations
 
-Non-functional requirements, Performance and Security test approaches
+>Non-functional requirements, Performance and Security test approaches
 
 >SAFe framework for Large Businesses and Portfolios- Architecture Runway and Enablers
 
@@ -39,12 +39,12 @@ I am IBM Certified Integration professional on Integration tools and technologie
 knowledge of TOGAF, Amazon Web Services (AWS), Azure and most of Cloud patterns/frameworks. I like keep
 reinventing myself for latest trends in the ever changing technology landscape.
 
-Manish K. Gupta
+>Manish K. Gupta
 
-Digital Integration and Security Professional
+>Digital Integration and Security Professional
 
-Amsterdam, NL
+>Amsterdam, NL
 
-Phone: +31 (0) 655409680
+>Phone: +31 (0) 655409680
 
-https://www.linkedin.com/in/manishkumargupta01/
+>>https://www.linkedin.com/in/manishkumargupta01/
