@@ -47,11 +47,7 @@ passion to my assignment. I play badminton regularly at local club on weekends.
 Feel free to drop a note in case you need further details on my work experinece and check for further syneergies.
 
 >Manish K. Gupta
-
 >Digital Integration and Security Professional
-
 >Amsterdam, NL
-
 >Phone: +31 (0) 655409680
-
 >https://www.linkedin.com/in/manishkumargupta01/
