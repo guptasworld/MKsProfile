@@ -35,16 +35,19 @@ I have hands-on role leading large and complex Digital transformation programs u
 including SAFE while working at ground simultaneously in collaboration with Business, Product, Delivery,
 Testing, Performance, ORT, Infrastructure, Network, Operations and DevOps teams. I also strongly in favor of
 the necessity to be analytically strong, logically flexible, and agile nevertheless firm in decision making.
+
 I am IBM Certified Integration professional on Integration tools and technologies. I have intermediate level
 knowledge of TOGAF, Amazon Web Services (AWS), Azure and most of Cloud patterns/frameworks. I like keep
 reinventing myself for latest trends in the ever changing technology landscape.
 
+Personally, I am a family person, living my wife and two kids in Netherlands. My wife has her own start-
+up which is operational in its very preliminary stage. I have interest in Web Security and Cryptocurrencies beside
+passion to my assignment. I play badminton regularly at local club on weekends.
+
+Feel free to drop a note in case you need further details on my work experinece and check for further syneergies.
+
 >Manish K. Gupta
-
 >Digital Integration and Security Professional
-
 >Amsterdam, NL
-
 >Phone: +31 (0) 655409680
-
->>https://www.linkedin.com/in/manishkumargupta01/
+>https://www.linkedin.com/in/manishkumargupta01/
