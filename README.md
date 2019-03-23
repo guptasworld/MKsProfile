@@ -45,5 +45,6 @@ Feel free to drop a note in case you need further details on my work experinece 
 >Manish K. Gupta . 
 >Digital Integration and Security Professional<br />
 >Amsterdam, NL<br />
+<Email: guptasworld2011@gmail.com<br />
 >Phone: +31 (0) 655409680<br />
 >https://www.linkedin.com/in/manishkumargupta01/<br />
