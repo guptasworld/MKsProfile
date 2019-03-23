@@ -10,7 +10,7 @@ In my present capacity, I am providing my expertise to a client of my present em
 B2B Platforms for Care and Sales stream in B2B segment for its subsidiaries. My main responsibility is to drive
 architecture roadmap, Architect steer and Impact assessment for B2B Portals, Digital Enablement Platform and
 Customer Identity Access Management for Care and e-commerce portals.
-
+<P1>
 >End to end Architecture for Connectivity and API, Microservices.
 >Salesforce CRM Integration
 >Security, Privacy and GDPR assessment and implementation.
@@ -20,7 +20,7 @@ solution including Key Management.
 >Non-functional requirements, Performance and Security test approaches
 >Review, Audit and support to RTE, Sprint Teams
 >SAFe framework for Large Businesses and Portfolios
-
+</P1>
 I have been co-delivering with global teams (USA, UK, Netherlands, China & India). Being in a horizontal
 technology, I have been part of multiple business domains including – Banking, Credit Card, Telecom, Retail/E-
 commerce, Logistics & B2B.
@@ -34,7 +34,8 @@ knowledge of TOGAF, Amazon Web Services (AWS), Azure and most of Cloud patterns/
 reinventing myself for latest trends in the ever changing technology landscape.
 
 Manish K. Gupta
-Digital Integration and Security Professional
+<P2>Digital Integration and Security Professional
 Amsterdam, NL
 Phone: +31 (0) 655409680
 https://www.linkedin.com/in/manishkumargupta01/
+</P2>
